@@ -1,4 +1,4 @@
-StartupTime=1433766979
+StartupTime=1433768515
 EMCheckCompatibility=true
 ProductName=Firefox
 Vendor=Mozilla
@@ -13,6 +13,7 @@ ServerURL=https://crash-reports.mozilla.com/submit?id={ec8030f7-c20a-464f-9b0e-1
 useragent_locale=en-US
 BuildID=20150525141253
 ProductID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}
-URL=https://mail.google.com/mail/u/0/?ui=2&view=bsp&ver=ohhl4rw8mbn4
-CrashTime=1433767123
-SecondsSinceLastCrash=183
+URL=https://mail.google.com/mail/u/0/#inbox
+CrashTime=1433768727
+SecondsSinceLastCrash=1604
+EventLoopNestingLevel=1
